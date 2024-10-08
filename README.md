@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Ragnarakkr
-- 👀 I’m interested in learning how to code, playing video games, law, politics(wont attack you for political choices unless you like facism or trump)
-- 🌱 I’m currently learning python and C++/C# after i get python down
-- 💞️ I’m looking to collaborate on nothing, im here in case i need help or need some code that i dont remember
